@@ -31,5 +31,5 @@ Its a shop for a friend of mine who opened an tech store and wnated to grow thei
 
 ---
 
-## 📂 Project Structure
+
 
