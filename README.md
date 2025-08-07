@@ -51,16 +51,6 @@ npm run dev
 **Make sure you have Node.js installed.**
 
 
-## 🧩 Project Structure 
-
-src/
-├──── components/ # UI components
-├──── contexts/ # Auth, Cart, Language, Theme contexts
-├──── pages/ # Main pages (Home, Admin, Product, etc.)
-├──── lib/ # Supabase client
-├──── App.tsx # Main App component
-└──── main.tsx # Entry point
-
 
 ## 🔜 Coming Soon
 ✅ Dynamic product management via Supabase
