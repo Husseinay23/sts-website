@@ -54,11 +54,12 @@ npm run dev
 ## 🧩 Project Structure 
 
 src/
-├── components/        // UI components
-├── contexts/          // Auth, Cart, Language, Theme contexts
-├── pages/             // Main pages (Home, Admin, Product, etc.)
-├── lib/               // Supabase client
-└── App.tsx, main.tsx  // Entry points
+├── components/ # UI components
+├── contexts/ # Auth, Cart, Language, Theme contexts
+├── pages/ # Main pages (Home, Admin, Product, etc.)
+├── lib/ # Supabase client
+├── App.tsx # Main App component
+└── main.tsx # Entry point
 
 
 ## 🔜 Coming Soon
